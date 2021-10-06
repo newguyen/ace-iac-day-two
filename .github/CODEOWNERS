@@ -11,3 +11,4 @@ main.tf @<netops>
 provider.tf @<netops>
 variables.tf @<netops>
 versions.tf @<netops>
+app-fqdn-rules.tf @ace-secops
